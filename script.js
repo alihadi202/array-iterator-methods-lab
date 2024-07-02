@@ -265,7 +265,7 @@ isEveryone19OrOlder = devs.every(dev => {
 })
 
 
-// Check your return value:
+// Check your return value
 console.log('Exercise 7 My Result: ', isEveryone19OrOlder)
 console.log('Exercise 7 Correct Result: ', false)
 
